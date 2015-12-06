@@ -1,2 +1,6 @@
 # hello-world
-This is a test repository
+=================
+
+Hello! 
+
+This is me getting my feet wet with Git and Github
